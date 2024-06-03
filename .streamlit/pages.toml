@@ -1,0 +1,15 @@
+[[pages]]
+path = "index.py"
+name = "Чат-бот"
+icon = "💬"
+
+[[pages]]
+path = "pages/rag.py"
+name = "Работа с НПА"
+icon = "💾"
+
+[[pages]]
+path = "pages/file_q&a.py"
+name = "Загрузка документов"
+icon = "📖"
+
